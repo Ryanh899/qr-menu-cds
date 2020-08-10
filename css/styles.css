@@ -1,0 +1,22 @@
+.header {
+    font-size: 45px;
+    font-weight: 500;
+}
+
+.header_2 {
+    font-size: 25px;
+    font-weight: 400;
+    margin-bottom: .5rem;
+    text-decoration: underline;
+}
+
+.header_3 {
+    font-size: 20px;
+    font-weight: 300;
+    margin-bottom: 0px;
+}
+
+.body_text {
+    font-size: 18px;
+    font-weight: 300;
+}
